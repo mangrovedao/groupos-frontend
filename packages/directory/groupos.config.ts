@@ -1,5 +1,5 @@
-import { createConfig } from "../src/lib/config";
-import { TOKEN_TRAIT_TYPE } from "../src/lib/types";
+import { createConfig } from "./src/lib/config";
+import { TOKEN_TRAIT_TYPE } from "./src/lib/types";
 
 export default createConfig({
   logo: "https://pbs.twimg.com/profile_images/1660360628941324290/GQYSBPow_400x400.jpg",
