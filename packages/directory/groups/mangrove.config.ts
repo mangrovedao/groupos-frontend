@@ -109,7 +109,7 @@ export default createConfig({
     {
       slug: "builder-score",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/b58d181b-6831-4119-b08b-8278d27db39b",
+        "https://ipfs.io/ipfs/QmS14Xfd2ySVTHC77SpSaEgfhddgqKtGCSPa3XgK7Nv8yw",
       tokenStandard: "ERC20",
       chainId: 1,
       contractAddress: "0x5f120453dfd0c55f55370d1f718089ae0fcf6387",
@@ -122,7 +122,7 @@ export default createConfig({
     {
       slug: "pod-score",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/a97ec388-9644-4a17-86f1-bde3b7764cf9",
+        "https://ipfs.io/ipfs/QmS14Xfd2ySVTHC77SpSaEgfhddgqKtGCSPa3XgK7Nv8yw",
       tokenStandard: "ERC20",
       chainId: 1,
       contractAddress: "0xd0805e6b373223322e341018cb8c024c3baa98b0",
@@ -135,7 +135,7 @@ export default createConfig({
     {
       slug: "active-builders",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/a4db9135-02e2-4b5d-a570-c06fee48312b",
+        "https://ipfs.io/ipfs/QmNhEMHqszbLATeGgxQt4hWS7dbDwACyr8gJGSSTb7cKWB",
       tokenStandard: "ERC1155",
       chainId: 1,
       contractAddress: "0xd1502a7659eaad60278ae3ef27edea849504f4da",
@@ -148,7 +148,7 @@ export default createConfig({
     {
       slug: "active-pods",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/a4db9135-02e2-4b5d-a570-c06fee48312b",
+        "https://ipfs.io/ipfs/QmNhEMHqszbLATeGgxQt4hWS7dbDwACyr8gJGSSTb7cKWB",
       tokenStandard: "ERC1155",
       chainId: 1,
       contractAddress: "0xa2956d29d879ab7b9a1d16723e376d9e2be5c911",
@@ -161,7 +161,7 @@ export default createConfig({
     {
       slug: "active-protocol-council",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/a4db9135-02e2-4b5d-a570-c06fee48312b",
+        "https://ipfs.io/ipfs/QmNhEMHqszbLATeGgxQt4hWS7dbDwACyr8gJGSSTb7cKWB",
       tokenStandard: "ERC1155",
       chainId: 1,
       contractAddress: "0xcb42f61a0e42eacd0091b9ffc6a182cdcec7bd4a",
@@ -174,7 +174,7 @@ export default createConfig({
     {
       slug: "active-ecosystem-council",
       image:
-        "https://station-images.nyc3.digitaloceanspaces.com/a4db9135-02e2-4b5d-a570-c06fee48312b",
+        "https://ipfs.io/ipfs/QmNhEMHqszbLATeGgxQt4hWS7dbDwACyr8gJGSSTb7cKWB",
       tokenStandard: "ERC1155",
       chainId: 1,
       contractAddress: "0x7c49ef1e6565af0e112f3727005f85208f81ba91",
