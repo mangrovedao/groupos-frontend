@@ -53,10 +53,8 @@ export function useNftMetadata(tokenContract?: TokenConfig, tokenId?: string) {
     },
   });
 
-  const uri =
-    process.env.NODE_ENV === "development"
-      ? `/api/nft/metadata?chainId=${tokenContract?.chainId}&contractAddress=${tokenContract?.contractAddress}&tokenId=${tokenId}`
-      : (uriResult.data as string);
+  const uri = `/api/nft/metadata?chainId=${tokenContract?.chainId}&contractAddress=${tokenContract?.contractAddress}&tokenId=${tokenId}`
+
 
   const metadata = useQuery({
     queryKey: [tokenContract?.chainId, tokenContract?.contractAddress, tokenId],
