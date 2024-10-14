@@ -188,7 +188,7 @@ function SelectedRowDetails({ token }: { token?: Erc721Token | null }) {
               <p className="text-secondary">Minted At</p>
               <p>{formatDate(token.mintedAt)}</p>
             </div>
-            {isFetching ? (
+            {/* {isFetching ? (
               <div className="flex flex-col items-center justify-center pt-4">
                 <LoadingSpinner />
               </div>
@@ -232,7 +232,7 @@ function SelectedRowDetails({ token }: { token?: Erc721Token | null }) {
                   </AccordionContent>
                 </AccordionItem>
               </Accordion>
-            )}
+            )} */}
           </div>
         </TabsContent>
         <TabsContent value="tokens">
